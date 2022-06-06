@@ -8,3 +8,9 @@ https://docs.locust.io/en/1.5.2/running-locust-docker.html#running-locust-with-d
 很奇怪 
 
 ```
+# Running Locust without Docker
+
+```
+locust -f load_test_easy_crm.py
+
+```
