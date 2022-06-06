@@ -11,6 +11,10 @@ https://docs.locust.io/en/1.5.2/running-locust-docker.html#running-locust-with-d
 # Running Locust without Docker
 
 ```
-locust -f load_test_easy_crm.py
+PATH : locust command not found
+
+/Users/user/Library/Python/3.8/bin/locust --version
+
+locust -f locustfile.py
 
 ```
